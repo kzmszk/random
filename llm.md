@@ -14,6 +14,8 @@
 * WizardLLM
 * WizardCoder
 * Command-R
+### nsfw?
+* [lightchatassistant](Aratako/LightChatAssistant-4x7B-GGUF)
 
 ## トレーニング
 * transformer
